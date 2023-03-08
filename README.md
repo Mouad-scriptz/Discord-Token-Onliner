@@ -2,4 +2,5 @@
 A python discord token onliner.
 
 # How to run
-- double click main.py
+- Put your tokens in tokens.txt
+- Double click main.py
