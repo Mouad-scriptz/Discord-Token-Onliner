@@ -5,6 +5,7 @@ try:
 except:
     import os
     os.system("pip install websocket colorama")
+from colorama import Fore, init
 init(True, True)
 
 print_lock = threading.Lock()
